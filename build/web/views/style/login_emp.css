@@ -6,7 +6,7 @@
 }
 
 body{
-    background: url("../web/image/imagemfundo.jpg");
+    background-color: #26a96a;
     background-size: cover;
     display: flex;
     justify-content: center;
