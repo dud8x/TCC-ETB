@@ -12,6 +12,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="../views/style/login_adm.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" 
+              rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" 
+              crossorigin="anonymous">
         <title>JSP Page</title>
     </head>
     <body>
@@ -25,7 +28,8 @@
                 </div>
                 <div class="input-line-container">
                     <span class="name-input">Senha:</span>
-                    <input type="text" name="senha" class="input-line" id="">
+                    <input type="password" name="senha" class="input-line" id=""/>
+                    <i class="bi bi-person-fill-lock"></i>
                 </div>
                 <input type="button" value="login" class="button-login">
                 <div id="Register" class="button-second">sou adm</div>

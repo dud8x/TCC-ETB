@@ -1,8 +1,4 @@
-<%-- 
-    Document   : index
-    Created on : 25/04/2024, 01:01:07
-    Author     : Root
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -12,6 +8,16 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Pizzaria Sao Paulo</h1>
+        <header>
+            <ul>
+                <li><a href="#">Top pizzas</a></li>
+                <li><a href="#">Categorias</a></li>
+                <li><a href="#">Carrinho</a></li>
+            </ul>
+        </header>
+        <section>
+
+        </section>
     </body>
 </html>
