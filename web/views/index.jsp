@@ -9,15 +9,12 @@
     </head>
     <body>
         <h1>Pizzaria Sao Paulo</h1>
-        <header>
+        <div>
             <ul>
                 <li><a href="#">Top pizzas</a></li>
                 <li><a href="#">Categorias</a></li>
                 <li><a href="#">Carrinho</a></li>
             </ul>
-        </header>
-        <section>
-
-        </section>
+        </div>
     </body>
 </html>
